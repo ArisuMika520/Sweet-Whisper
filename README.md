@@ -5,7 +5,6 @@
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Language: Dart](https://img.shields.io/badge/Language-Dart-blue?logo=dart)](https://dart.dev)
 [![Platform](https://img.shields.io/badge/Platform-Win%20%7C%20Mac%20%7C%20iOS%20%7C%20Android%20%7C%20Web-brightgreen)](https://flutter.dev)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/[YOUR_USERNAME]/Sweet-Whisper/YOUR_WORKFLOW_FILE.yml?branch=main)](https://github.com/[YOUR_USERNAME]/Sweet-Whisper/actions)
 
 ---
 
