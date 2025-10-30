@@ -1,12 +1,24 @@
+<p align="center">
+	<img width="320" src="https://r2.sakinori.top/Image/Sweet-Whisper.png" alt="SpacetimeDB Logo">
+</p>
+
+
+<p align="center">
+     Sweet-Whisper
+</p>
+<p align="center">
+     专为 ASMR 打造的跨平台播放器
+</p>
+
+<p align="center">
+    <a href="https://www.gnu.org/licenses/agpl-3.0"><img src="https://img.shields.io/badge/License-AGPL%20v3-blue.svg"></a>
+    &nbsp;
+    <a href="https://dart.de"><img src="https://img.shields.io/badge/Language-Dart-blue?logo=dart"></a>
+    &nbsp;
+	<a href="https://flutter.dev"><img src="https://img.shields.io/badge/Platform-Win%20%7C%20Mac%20%7C%20iOS%20%7C%20Android%20%7C%20Web-brightgreen"></a>
+</p>
+
 # 💖 Sweet-Whisper
-
-**专为 ASMR 打造的跨平台播放器**
-
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
-[![Language: Dart](https://img.shields.io/badge/Language-Dart-blue?logo=dart)](https://dart.dev)
-[![Platform](https://img.shields.io/badge/Platform-Win%20%7C%20Mac%20%7C%20iOS%20%7C%20Android%20%7C%20Web-brightgreen)](https://flutter.dev)
-
----
 
 Sweet-Whisper 不仅仅是一个音频播放器。它是为那些寻求深度情感联系和沉浸式ASMR体验的用户而设计的。
 
