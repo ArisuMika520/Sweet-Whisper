@@ -1,5 +1,5 @@
 <p align="center">
-	<img width="320" src="https://r2.sakinori.top/Image/Sweet-Whisper.png" alt="SpacetimeDB Logo">
+	<img width="240" src="https://r2.sakinori.top/Image/Sweet-Whisper.png" alt="SpacetimeDB Logo">
 </p>
 
 
